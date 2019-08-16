@@ -4,7 +4,7 @@ import smtplib
 import time
 
 #Set the URL for the scraper
-URL = https://www.amazon.com/Canon-T7-18-55mm-3-5-5-6-Accessory/dp/B07P15K8Q7/ref=sr_1_1?keywords=cannon&qid=1565656955&s=gateway&sr=8-1
+URL = 'https://www.amazon.com/Canon-T7-18-55mm-3-5-5-6-Accessory/dp/B07P15K8Q7/ref=sr_1_1?keywords=cannon&qid=1565656955&s=gateway&sr=8-1'
 
 headers = {"User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15'}
 
